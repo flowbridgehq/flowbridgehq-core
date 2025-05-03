@@ -12,5 +12,16 @@ Unite blockchain finance for seamless cross-border payments and DeFi.
 ## Status
 Early development. Building in private, going public soon. Follow us on X: [@FlowBridgeHQ](https://x.com/FlowBridgeHQ).
 
+## Get Involved
+We’re seeking developers passionate about blockchain and global finance. Want to build the future of DeFi with us? 
+- **Contribute**: Check our [Contributing Guidelines](#contributing) below.
+- **Contact**: Email us at flowbridgehq@gmail.com or DM [@FlowBridgeHQ](https://x.com/FlowBridgeHQ) on X.
+
+## Contributing
+- **Issues**: Check the [Issues](https://github.com/flowbridgehq/flowbridgehq-core/issues) tab for tasks (e.g., ILP connector prototypes, docs).
+- **Pull Requests**: Fork the repo, create a branch (e.g., `feature/ilp-connector`), and submit PRs for review.
+- **Code Style**: Follow JavaScript/TypeScript standards (ESLint, Prettier). Details in [CONTRIBUTING.md](CONTRIBUTING.md) (coming soon).
+- **License**: All contributions are under the [MIT License](LICENSE).
+
 ## License
 MIT License
